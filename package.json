@@ -56,8 +56,10 @@
   "main": "index.js",
   "name": "react-native-perspective-image-cropper",
   "peerDependencies": {
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.44.3"
+    "react": "^19.0.0",
+    "react-native": "^0.78.0",
+    "@babel/runtime": ">=7.0.0",
+    "react-native-svg": ">=9.0.0"
   },
   "repository": {
     "type": "git",
